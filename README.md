@@ -23,6 +23,14 @@ To run this animation, you'll need to have Python and Manim installed, along wit
    - **On Windows:** You can install it via the FFMPEG website or with package managers like Chocolatey.
    - **On Mac:** Run `brew install ffmpeg` if you have Homebrew.
    - **On Linux:** Use `sudo apt-get install ffmpeg`.
+4. **Add FFMPEG to Your System Path**
+
+   Once the download is complete, extract the ZIP file to a location where you want to keep FFMPEG permanently, such as C:\ffmpeg. To add FFMPEG to Your System Path,
+   - Open the **Start Menu**, type **Environment Variables**, and select **Edit the system environment variables**.
+   - In the **System Properties** window, click on the **Environment Variables** button.
+   - In the **Environment Variables** window, find the **Path variable** under **System Variables** and click **Edit**.
+   - Click **New** and add the path to the FFMPEG bin folder. If you extracted it to ```C:\ffmpeg```, it should be ```C:      \ffmpeg\bin.```
+   - Click **OK** to close each window.
 
 ### Customizing the Animation
 Feel free to modify the animation by adjusting parameters, colors, or adding additional elements. The Manim library is quite flexible, and you can explore its documentation for more advanced features: [Manim Documentation](https://docs.manim.community/en/stable/).
