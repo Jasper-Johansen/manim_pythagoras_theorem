@@ -1,6 +1,6 @@
 # Pythagorean Theorem Animation with Manim
 
-This project creates a simple animation illustrating the Pythagorean theorem using the Manim library. The animation visually represents a right triangle and its corresponding squares on each side, demonstrating the relationship \( a^2 + b^2 = c^2 \).This project was inspired by the educational videos from the 3Blue1Brown YouTube channel and serves as a self-learning journey into the world of mathematics and animation.
+This project creates a simple animation illustrating the Pythagorean theorem using the Manim library. The animation visually represents a right triangle and its corresponding squares on each side, demonstrating the relationship $a^2 + b^2 = c^2$.This project was inspired by the educational videos from the 3Blue1Brown YouTube channel and serves as a self-learning journey into the world of mathematics and animation.
 
 ## Requirements
 
