@@ -15,7 +15,7 @@ To run this animation, you'll need to have Python and Manim installed, along wit
    You can install the Community version of Manim with pip. This is the actively maintained version. Open your terminal or command prompt and run:
    ```bash
    pip install manim
-```
+   ```
 3. **Installing FFMPEG**
 
    Manim uses FFMPEG to render videos, so it’s essential to have it installed.
